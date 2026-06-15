@@ -1,0 +1,15 @@
+{
+  "name": "cherry NFT",
+  "description": "A Sepolia test NFT used by Cherry Wallet.",
+  "image": "https://raw.githubusercontent.com/Daniel-Ww333/nft-metadata/main/images/cherry.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Sepolia"
+    },
+    {
+      "trait_type": "Project",
+      "value": "Cherry Wallet"
+    }
+  ]
+}
